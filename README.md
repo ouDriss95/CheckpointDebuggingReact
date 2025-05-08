@@ -1,6 +1,6 @@
 ### Debugging Report: Player Image Not Showing
 
-**Date:** May 8, 2025  
+**Date:** May 3, 2025  
 **Component Affected:** <Player />  
 **Issue Summary:**  
 Achraf Hakimi’s card image was broken due to an invalid image URL.
