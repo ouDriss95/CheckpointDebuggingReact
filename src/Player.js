@@ -29,11 +29,11 @@ function Player({ name, team, nationality, jerseyNumber, age, imageUrl }) {
 }
 
 Player.defaultProps = {
-  name: "Unknown Player",
-  team: "Free Agent",
-  nationality: "Unknown",
-  jerseyNumber: 0,
-  age: 0,
+  name: "Achraf Hakimi",
+  team: "Paris Saint-Germain",
+  nationality: "Morocco",
+  jerseyNumber: 2,
+  age: 25,
   imageUrl:
     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Achraf_Hakimi_2024.jpg/640px-Achraf_Hakimi_2024.jpg",
 };
